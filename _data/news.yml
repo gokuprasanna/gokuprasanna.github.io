@@ -1,0 +1,8 @@
+# See README.md (Data Files) for the fields used in this file.
+# News items shown on the home page sidebar.
+# The 3 most recent are shown; all appear on /allnews.
+# Each entry needs: date, headline
+- date: "Sep 2026"
+  headline: 'New paper in <em>Topics in Cognitive Science</em>: <a href="https://doi.org/10.1111/tops.70081">Goal-Directed Latent Variable Inference: A Unified Active Inference Framework for Embodied Intelligence in Continuous Spatiotemporal Domains</a>, with Takazumi Matsumoto and Jun Tani.'
+- date: "Jan 2025"
+  headline: 'New paper in <em>Science Robotics</em>: <a href="https://doi.org/10.1126/scirobotics.adp0751">Development of compositionality through interactive learning of language and action of robots</a>.'

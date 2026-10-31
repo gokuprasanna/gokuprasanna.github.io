@@ -1,0 +1,12 @@
+# See README.md (Data Files) for the fields used in this file.
+# Optional: detailed education and bio for the About page.
+# Basic info (name, photo, links) now lives in _config.yml.
+# Delete this file if you only need the basics.
+- education:
+    - "(2024) PhD in Cognitive Robotics, Okinawa Institute of Science and Technology Graduate University"
+    - "(2014) MS in Applied Cognition and Neuroscience, University of Texas at Dallas"
+    - "(2012) BTech in Biotechnology, Anna University"
+  educationshort:
+    - "(2024) PhD in Cognitive Robotics"
+    - "(2014) MS in Applied Cognition and Neuroscience"
+    - "(2012) BTech in Biotechnology"
