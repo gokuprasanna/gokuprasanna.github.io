@@ -29,3 +29,9 @@ Open `http://localhost:4000` to preview the site.
 The GitHub Actions workflow in `.github/workflows/deploy.yml` builds and deploys
 the site when changes are pushed to `main`. In the repository's **Settings >
 Pages**, set the source to **GitHub Actions**.
+
+## Credits
+
+This site is built on the
+[academic-website-template](https://github.com/sbryngelson/academic-website-template)
+by Spencer Bryngelson, used under the MIT License (see `LICENSE`).
